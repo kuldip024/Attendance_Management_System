@@ -25,7 +25,7 @@ The Smart Attendance System automates attendance using facial recognition. It cr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/smart-attendance-system.git
+   git clone https://github.com/kuldip024/smart-attendance-system.git
    cd smart-attendance-system
    ```
 
