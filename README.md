@@ -55,6 +55,3 @@ We welcome and appreciate contributions! Feel free to fork the repository and su
 
 This project is licensed under the MIT License. Enjoy a hassle-free, automated attendance experience with our Smart Attendance System!
 
----
-
-This README file provides clear instructions on how to run the `main.py` script and use the graphical user interface for user registration and attendance tracking in your project.
